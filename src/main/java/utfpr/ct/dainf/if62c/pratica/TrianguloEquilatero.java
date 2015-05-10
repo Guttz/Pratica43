@@ -1,10 +1,11 @@
 package utfpr.ct.dainf.if62c.pratica;
 
-public class TrianguloEquilatero implements FiguraComLados {
+public class TrianguloEquilatero extends Retangulo {
 
     private double l;
     
-    public TrianguloEquilatero(double l){ 
+    public TrianguloEquilatero(double l){
+        super(l, l);
         this.l = l; 
 }
     
