@@ -1,6 +1,6 @@
 package utfpr.ct.dainf.if62c.pratica;
 
-public class TrianguloEquilatero implements FiguraComEixos {
+public class TrianguloEquilatero implements FiguraComLados {
 
     double l;
     

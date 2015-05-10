@@ -6,10 +6,12 @@
 package utfpr.ct.dainf.if62c.pratica;
 
 /**
- *d
+ *
  * @author gustavopguto
  */
-public interface FiguraComEixos extends Figura {
-    double getEixoMenor();
-    double getEixoMaior();
+public class Circulo extends Elipse{
+    
+    public Circulo(double r){
+        super(r,r);
+    }
 }

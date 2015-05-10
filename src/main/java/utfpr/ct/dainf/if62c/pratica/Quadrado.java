@@ -5,7 +5,7 @@ package utfpr.ct.dainf.if62c.pratica;
  * Exemplo de interface em Java.
  * @author Wilson Horstmeyer Bogado <wilson@utfpr.edu.br>
  */
-public class Quadrado implements FiguraComEixos{
+public class Quadrado implements FiguraComLados{
     double l;
     
     public Quadrado(double l){ 

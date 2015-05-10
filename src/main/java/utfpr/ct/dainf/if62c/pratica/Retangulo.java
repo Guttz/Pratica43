@@ -1,6 +1,6 @@
 package utfpr.ct.dainf.if62c.pratica;
 
-public class Retangulo implements FiguraComEixos {
+public class Retangulo implements FiguraComLados {
     double b, h;
     
     public Retangulo(double b, double h){ 
