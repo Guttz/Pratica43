@@ -55,6 +55,6 @@ public class Elipse implements FiguraComEixos{
     
     @Override
     public String getNome(){
-        return toString();
+        return this.getClass().getSimpleName();
     }
 }

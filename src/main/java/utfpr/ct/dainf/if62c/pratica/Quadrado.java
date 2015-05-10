@@ -42,6 +42,6 @@ public class Quadrado implements FiguraComLados{
     
     @Override
     public String getNome(){
-        return toString();
+        return this.getClass().getSimpleName();
     }
 }

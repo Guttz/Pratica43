@@ -38,7 +38,7 @@ public class TrianguloEquilatero implements FiguraComLados {
     
     @Override
     public String getNome(){
-        return toString();
+        return this.getClass().getSimpleName();
     }
 
 }
