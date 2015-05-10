@@ -10,6 +10,6 @@ package utfpr.ct.dainf.if62c.pratica;
  * @author gustavopguto
  */
 public interface FiguraComLados extends Figura {
-    double getladoMenor();
-    double getladoMaior();
+    double getLadoMenor();
+    double getLadoMaior();
 }

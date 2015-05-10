@@ -27,7 +27,7 @@ public class Retangulo implements FiguraComLados {
     }
     
     @Override
-    public double getladoMenor(){
+    public double getLadoMenor(){
         if(b<h)
             return b;
         
@@ -36,7 +36,7 @@ public class Retangulo implements FiguraComLados {
     }
     
     @Override
-    public double getladoMaior(){
+    public double getLadoMaior(){
         if(h>b)
             return h;
         

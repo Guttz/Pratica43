@@ -31,12 +31,12 @@ public class Quadrado implements FiguraComLados{
     }
     
     @Override
-    public double getladoMenor(){
+    public double getLadoMenor(){
             return l;
     }
     
     @Override
-    public double getladoMaior(){
+    public double getLadoMaior(){
             return l;
     }
     
