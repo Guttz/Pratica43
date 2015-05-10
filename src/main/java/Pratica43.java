@@ -40,8 +40,8 @@ public class Pratica43 {
         System.out.println("Area do Triangulo: " + AT);
         System.out.println("Area do Quadrado: " + AQ);
         System.out.println("Area do Retangulo: " + AR);
-        System.out.println("Perimetro do Circulo: " + PC);
         System.out.println("Area do Circulo: " + AC);
+        System.out.println("Perimetro do Circulo: " + PC);
         System.out.println("Perimetro da Elipse: " + PE);
         System.out.println("Perimetro do Quadrado: " + PQ);
         System.out.println("Perimetro da Triangulo: " + PT);

@@ -1,7 +1,7 @@
 package utfpr.ct.dainf.if62c.pratica;
 
 public class Retangulo implements FiguraComLados {
-    double b, h;
+    private double b, h;
     
     public Retangulo(double b, double h){ 
         this.b = b; 

@@ -2,7 +2,7 @@ package utfpr.ct.dainf.if62c.pratica;
 
 public class TrianguloEquilatero implements FiguraComLados {
 
-    double l;
+    private double l;
     
     public TrianguloEquilatero(double l){ 
         this.l = l; 
